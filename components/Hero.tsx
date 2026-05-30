@@ -21,7 +21,8 @@ export default function Hero(): React.JSX.Element {
             empatia).
           </p>
           <a
-            href="https://www.tiktok.com/@soylucaramon"
+            //href="https://www.tiktok.com/@soylucaramon"
+            href="#gallery"
             className="energy-bg text-white font-bold px-8 py-4 rounded-full shadow-lg shadow-orange-500/20 hover:scale-105 transition-transform inline-flex items-center gap-2"
           >
             Ver mis aventuras &#x1f43e;
