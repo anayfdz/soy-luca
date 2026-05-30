@@ -21,7 +21,7 @@ export default function Hero(): React.JSX.Element {
             empatia).
           </p>
           <a
-            href="#gallery"
+            href="https://www.tiktok.com/@soylucaramon"
             className="energy-bg text-white font-bold px-8 py-4 rounded-full shadow-lg shadow-orange-500/20 hover:scale-105 transition-transform inline-flex items-center gap-2"
           >
             Ver mis aventuras &#x1f43e;
@@ -31,7 +31,7 @@ export default function Hero(): React.JSX.Element {
         <div className="relative flex justify-center">
           <div className="absolute inset-0 energy-bg scale-95 md:scale-105 opacity-80 animate-pulse blur-sm"></div>
             <img
-              src="/images/yo-chiquito.jpg"
+              src="/soy-luca/images/yo-chiquito.jpg"
               alt="Yo Chiquito"
               className="relative z-10 w-full rounded-2xl max-w-sm md:max-w-md object-cover drop-shadow-[0_20px_20px_rgba(0,0,0,0.6)]"
             />
